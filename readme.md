@@ -73,7 +73,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 Mijn startniveau is de blauwe piste
 
 **Je focus:** -kies uit responsive óf surface plane-
-Mijn focus is de surface plane
+Mijn focus is responsive
 
 **Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 https://www.etos.nl
