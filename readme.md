@@ -76,12 +76,12 @@ Mijn startniveau is de blauwe piste
 Mijn focus is responsive
 
 **Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
-https://www.etos.nl
+https://broederliefde.com
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/Etos1.PNG" width="375px" alt="Eerste pagina van de Etos website">
+<img src="images/broederliefde.pdf" width="375px" alt="Eerste pagina van de Broederliefde website">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/Etos2.PNG" width="375px" alt="Detail pagina van de Etos">
+<img src="images/broederliefde.pdf" width="375px" alt="Tweede pagina van de Broederliefde website">
