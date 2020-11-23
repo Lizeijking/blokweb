@@ -80,8 +80,8 @@ https://broederliefde.com
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/broederliefde.pdf" width="375px" alt="Eerste pagina van de Broederliefde website">
+<img src="images/broederliefde1.jpg" width="375px" alt="Eerste pagina van de Broederliefde website">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/broederliefde.pdf" width="375px" alt="Tweede pagina van de Broederliefde website">
+<img src="images/broederliefde2.jpg" width="375px" alt="Tweede pagina van de Broederliefde website">
