@@ -6,9 +6,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://www.youtube.com/watch?v=5q8pIRVabFg (video als banner)
+2. https://www.w3schools.com/css/css3_buttons.asp (buttons)
+3. https://codepen.io/Lizeijking/pen/yLaaBgM (positioneren over tekst)
 
 
 
@@ -69,14 +69,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Intake (week 1)
 -uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
-Mijn startniveau is de blauwe piste
+**Je startniveau:** - Mijn startniveau is de blauwe piste
 
-**Je focus:** -kies uit responsive óf surface plane-
-Mijn focus is responsive
+**Je focus:** - Mijn focus is surface plane
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
-https://broederliefde.com
+**Je opdracht:** - https://broederliefde.com
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
