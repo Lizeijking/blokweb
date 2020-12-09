@@ -9,6 +9,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 1. https://www.youtube.com/watch?v=5q8pIRVabFg (video als banner)
 2. https://www.w3schools.com/css/css3_buttons.asp (buttons)
 3. https://codepen.io/Lizeijking/pen/yLaaBgM (positioneren over tekst)
+4. https://codepen.io/Lizeijking/pen/YzGGayz (social media buttons met flex)
 
 
 
